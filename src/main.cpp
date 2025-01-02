@@ -14,6 +14,5 @@ void loop() {
 
 // put function definitions here:
 int myFunction(int x, int y) {
-  x += 1;
   return x + y;
 }
